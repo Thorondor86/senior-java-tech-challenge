@@ -1,0 +1,17 @@
+C:\Users\joang\Documents\GitHub\senior-java-tech-challenge\src\main\java\com\challenge\products\mapper\PriceMapper.java
+C:\Users\joang\Documents\GitHub\senior-java-tech-challenge\src\main\java\com\challenge\products\model\Product.java
+C:\Users\joang\Documents\GitHub\senior-java-tech-challenge\src\main\java\com\challenge\products\exception\ResourceNotFoundException.java
+C:\Users\joang\Documents\GitHub\senior-java-tech-challenge\src\main\java\com\challenge\products\config\SecurityConfig.java
+C:\Users\joang\Documents\GitHub\senior-java-tech-challenge\src\main\java\com\challenge\products\SeniorJavaTechChallengeApplication.java
+C:\Users\joang\Documents\GitHub\senior-java-tech-challenge\src\main\java\com\challenge\products\dto\PriceRequestDto.java
+C:\Users\joang\Documents\GitHub\senior-java-tech-challenge\src\main\java\com\challenge\products\mapper\ProductMapper.java
+C:\Users\joang\Documents\GitHub\senior-java-tech-challenge\src\main\java\com\challenge\products\repository\ProductRepository.java
+C:\Users\joang\Documents\GitHub\senior-java-tech-challenge\src\main\java\com\challenge\products\repository\PriceRepository.java
+C:\Users\joang\Documents\GitHub\senior-java-tech-challenge\src\main\java\com\challenge\products\config\OpenApiConfig.java
+C:\Users\joang\Documents\GitHub\senior-java-tech-challenge\src\main\java\com\challenge\products\dto\PriceDto.java
+C:\Users\joang\Documents\GitHub\senior-java-tech-challenge\src\main\java\com\challenge\products\model\Price.java
+C:\Users\joang\Documents\GitHub\senior-java-tech-challenge\src\main\java\com\challenge\products\service\ProductService.java
+C:\Users\joang\Documents\GitHub\senior-java-tech-challenge\src\main\java\com\challenge\products\service\PriceService.java
+C:\Users\joang\Documents\GitHub\senior-java-tech-challenge\src\main\java\com\challenge\products\dto\ProductDto.java
+C:\Users\joang\Documents\GitHub\senior-java-tech-challenge\src\main\java\com\challenge\products\exception\BusinessRuleException.java
+C:\Users\joang\Documents\GitHub\senior-java-tech-challenge\src\main\java\com\challenge\products\controller\ProductController.java

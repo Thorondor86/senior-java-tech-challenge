@@ -1,0 +1,17 @@
+com\challenge\products\repository\PriceRepository.class
+com\challenge\products\service\ProductService.class
+com\challenge\products\config\OpenApiConfig.class
+com\challenge\products\mapper\ProductMapper.class
+com\challenge\products\model\Product.class
+com\challenge\products\dto\PriceDto.class
+com\challenge\products\controller\ProductController.class
+com\challenge\products\mapper\PriceMapper.class
+com\challenge\products\exception\ResourceNotFoundException.class
+com\challenge\products\model\Price.class
+com\challenge\products\dto\ProductDto.class
+com\challenge\products\config\SecurityConfig.class
+com\challenge\products\SeniorJavaTechChallengeApplication.class
+com\challenge\products\dto\PriceRequestDto.class
+com\challenge\products\service\PriceService.class
+com\challenge\products\exception\BusinessRuleException.class
+com\challenge\products\repository\ProductRepository.class
