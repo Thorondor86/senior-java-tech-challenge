@@ -18,3 +18,10 @@ services:
       SPRING_DATASOURCE_URL: jdbc:postgresql://db:5432/productsdb
       SPRING_DATASOURCE_USERNAME: app
       SPRING_DATASOURCE_PASSWORD: app
+  k6:
+    image: grafana/k6
+    depends_on:
+      - app
+    volumes:
+      - ./k6:/scripts
+    entrypoint: ["k6", "run", "/scripts/loadtest.js"]
